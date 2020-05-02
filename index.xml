@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leon Weber</title>
+    <link>https://leonweber.me/</link>
+    <description>Recent content on Leon Weber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://leonweber.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://leonweber.me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leonweber.me/</guid>
+      <description>I&amp;rsquo;m a 2nd year PhD student at Humboldt University of Berlin and MDC Berlin. My supervisors are Ulf Leser and Jana Wolf. In my research, I am mainly interested in developing Machine Learning methods for extracting structured information from text. I am doing this mainly in the biomedical domain to build tools that may help to make sense of the enormous amount of research publications. I am also interested in applying Machine Learning to other problems in Biology and in approaches for computational reasoning.</description>
+    </item>
+    
+  </channel>
+</rss>
