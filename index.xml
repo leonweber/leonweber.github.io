@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leon Weber</title>
-    <link>https://leonweber.github.io/</link>
-    <description>Recent content on Leon Weber</description>
+    <title>About on Leon Weber</title>
+    <link>/</link>
+    <description>Recent content in About on Leon Weber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 16:18:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 18:39:44 +0200</lastBuildDate>
     
-	<atom:link href="https://leonweber.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About me</title>
-      <link>https://leonweber.github.io/</link>
+      <title>Publications</title>
+      <link>/publications/</link>
       <pubDate>Sat, 02 May 2020 16:18:46 +0200</pubDate>
       
-      <guid>https://leonweber.github.io/</guid>
-      <description>I&amp;rsquo;m a 2nd year PhD student at Humboldt University of Berlin and MDC Berlin. My supervisors are Ulf Leser and Jana Wolf. In my research, I am mainly interested in developing Machine Learning methods for extracting structured information from text. I am doing this mainly in the biomedical domain to build tools that may help to make sense of the enormous amount of research publications. I am also interested in applying Machine Learning to other problems in Biology and in approaches for computational reasoning.</description>
+      <guid>/publications/</guid>
+      <description>2020 L. Weber, K. Thobe, O. A. M. Lozano, J. Wolf and U. Leser. &amp;ldquo;PEDL: Extracting protein-protein associations using deep language models and distant supervision.&amp;rdquo; Int. Conf. on Intelligent Systems in Molecular Biology (accepted) [code]
+2019 L. Weber, P. Minervini, J. Münchmeyer, U. Leser and T. Rocktäschel. &amp;ldquo;NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language.&amp;rdquo; ACL 2019, Florence, Italy [paper] [code]
+L. Weber*, J. Münchmeyer*, T. Rocktäschel, M.</description>
     </item>
     
   </channel>
