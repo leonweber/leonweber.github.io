@@ -3,20 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <priority>0</priority>
+    <loc>https://leonweber.github.io/</loc>
+    <lastmod>2020-05-02T16:18:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://leonweber.github.io/</loc>
+    <lastmod>2020-05-02T16:18:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://leonweber.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://leonweber.github.io/tags/</loc>
   </url>
   
 </urlset>
