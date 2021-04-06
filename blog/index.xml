@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Leon Weber</title>
-    <link>/</link>
-    <description>Recent content in About on Leon Weber</description>
+    <title>Blogs on Leon Weber</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Leon Weber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 18:39:44 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Sat, 02 May 2020 16:18:46 +0200</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>2021 L. Weber, M Sänger, J Münchmeyer, M Habibi and U Leser. &amp;ldquo;HunFlair: An Easy-to-Use Tool for State-of-the-Art Biomedical Named Entity Recognition.&amp;rdquo; Bioinformatics (btab042) 2021 [paper] [code]
-2020 W. D. Xing, L. Weber and U. Leser. &amp;ldquo;Biomedical Event Extraction as Multi-turn Question Answering.&amp;rdquo; Int. Workshop on Health Text Mining and Information Analysis 2020 [paper] [code]
-L. Weber, K. Thobe, O. A. M. Lozano, J. Wolf and U. Leser. &amp;ldquo;PEDL: Extracting protein-protein associations using deep language models and distant supervision.</description>
-    </item>
     
     <item>
       <title></title>
