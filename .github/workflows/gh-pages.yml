@@ -32,4 +32,3 @@ jobs:
           publish_dir: ./public
           user_name: leonweber
           user_email: leonweber@posteo.de
-          publish_branch: master
