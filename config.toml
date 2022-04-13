@@ -1,0 +1,54 @@
+title = "Leon Weber"
+baseURL = "https://leonweber.me"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+
+[params]
+  author = "Leon Weber"
+  description = "Personal page of Leon Weber"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "ai ai-google-scholar"
+    title = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=OKbS2VAAAAAJ&hl=en"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/leonweber/"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/weberple"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:leonweber@posteo.de"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
