@@ -12,8 +12,7 @@ draft: false
 
 I am a researcher at [MaiNLP](https://mainlp.github.io/) where I work with Barbara Plank on human-centric NLP. Currently, I am trying to figure out how human-in-the-loop approaches can be used to improve NLP models. I am also still interested in the application of NLP to the biomedical domain.
 
-Before that I was a PhD student at Humboldt University of Berlin and MDC Berlin.
-Where I worked on biomedical NLP with Ulf Leser and Jana Wolf.
+Before that I was a PhD student at Humboldt University of Berlin and MDC Berlin where I worked on biomedical NLP with Ulf Leser and Jana Wolf.
 
 Before starting my PhD in 2018, I completed my MSc and BSc in Computer Science at Humboldt University and Free University in Berlin. I also hold a BA in Philosophy from Bamberg University.
 
