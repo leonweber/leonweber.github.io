@@ -5,11 +5,20 @@ draft: false
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+## Selected publications
+For a full list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=OKbS2VAAAAAJ&hl=en&oi=ao).
+
 ## 2022
-J.A. Fries\*, N. Seelam\*, G. Altay\*, **L. Weber**\*, M. Kang\*, D. Datta\*, R. Su\*, S. Garda\*, B. Wang, S. Ott, M. Samwald, W. Kusa (2022). Dataset Debt in Biomedical Language Modeling. Workshop on Challenges & Perspectives in Creating Large Language Models 2022 (accepted). 
+**L. Weber**, M. Sänger, S. Garda, F. Barth, C. Alt, U. Leser. (2022). Chemical–protein relation extraction with ensembles of carefully tuned pretrained language models. Database. [[paper]](https://academic.oup.com/database/article/doi/10.1093/database/baac098/6833204?login=false) [[code]](https://github.com/leonweber/drugprot)
+
+J.A. Fries\*, **L. Weber**\*, N. Seelam\*, G. Altay\*, D. Datta\^, S. Garda\^, M. Kang\^, R. Su\^, W. Kusa\^, S. Cahyawijaya\^, F. Barth\^, S. Ott\^, M. Samwald\^, S. Bach\^, S. Biderman\^, M. Sänger\^, B. Wang, A. Callahan, D.L. Periñán, T. Gigant, P. Haller, J. Chim, J.D. Posada, J.M. Giorgi, K.R. Sivaraman, M. Pàmies, M. Nezhurina, R. Martin, M. Cullan, M. Freidank, N. Dahlberg, S. Mishra, S. Bose, N.M. Broad, Y. Labrak, S.S. Deshmukh, S. Kiblawi, A. Singh, M.C. Vu, T. Neeraj, J. Golde, A.V. del Moral and B. Beilharz (2022). Bigbio: A framework for data-centric biomedical natural language processing. NeurIPS 2022 Datasets and Benchmarks Track
+<sup>\*:Equal contribution, \^:Equal contribution</sup>
+
+
+J.A. Fries\*, N. Seelam\*, G. Altay\*, **L. Weber**\*, M. Kang\*, D. Datta\*, R. Su\*, S. Garda\*, B. Wang, S. Ott, M. Samwald, W. Kusa (2022). Dataset Debt in Biomedical Language Modeling. Workshop on Challenges & Perspectives in Creating Large Language Models 2022. [[paper]](https://aclanthology.org/2022.bigscience-1.10/) 
 <sup>\*:Equal contribution</sup>
 
-X. Wang, U. Leser and **L. Weber** (2022). BEEDS: Large-Scale Biomedical Event Extraction using Distant Supervision and Question Answering. BioNLP 2022 (accepted). [[code]](https://github.com/WangXII/BEEDS)
+X. Wang, U. Leser and **L. Weber** (2022). BEEDS: Large-Scale Biomedical Event Extraction using Distant Supervision and Question Answering. BioNLP 2022. [[paper]](https://aclanthology.org/2022.bionlp-1.28/) [[code]](https://github.com/WangXII/BEEDS)
 
 ## 2021
 **L. Weber**, M. Sänger, S. Garda, F. Barth, C. Alt and U. Leser (2021). Humboldt @ DrugProt: Chemical-Protein Relation Extraction with Pretrained Transformers and Entity Descriptions. 7th International BioCreative Challenge Evaluation. [[paper]](https://biocreative.bioinformatics.udel.edu/media/store/files/2021/Track1_pos_2_BC7_submission_172.pdf) [[code]](https://github.com/leonweber/drugprot). 

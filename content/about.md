@@ -10,15 +10,16 @@ draft: false
 # About me
 {{< figure class="avatar" src="/picture.png" alt="avatar">}}
 
-I’m a 4th year PhD student at Humboldt University of Berlin and MDC Berlin.
-My supervisors are Ulf Leser and Jana Wolf.
-I am interested in developing Machine Learning methods for extracting structured information from text.
-I am doing this mostly in the biomedical domain to build tools that may help to make sense of the enormous amount of research publications.
-I apply Machine Learning also to other problems in Biology and I am interested in approaches for computational reasoning.
+I am a researcher at [MaiNLP](https://mainlp.github.io/) where I work with Barbara Plank on human-centric NLP. Currently, I am trying to figure out how human-in-the-loop approaches can be used to improve NLP models. I am also still interested in the application of NLP to the biomedical domain.
 
-Before my starting my PhD in 2018, I completed my MSc and BSc in Computer Science at Humboldt University and Free University in Berlin. I also hold a BA in Philosophy from Bamberg University.
+Before that I was a PhD student at Humboldt University of Berlin and MDC Berlin.
+Where I worked on biomedical NLP with Ulf Leser and Jana Wolf.
+
+Before starting my PhD in 2018, I completed my MSc and BSc in Computer Science at Humboldt University and Free University in Berlin. I also hold a BA in Philosophy from Bamberg University.
 
 # Personal News
+
+* **Nov 2022** I joined [MaiNLP](https://mainlp.github.io/) as a researcher. I am looking forward to working with the team and to learn a lot about human-centric NLP.
 
 * **Apr 2022** We, the [BigScience](https://bigscience.huggingface.co) biomedical working group, are hosting a hackathon with the goal to bring all biomedical NLP datasets into a unified format. [Come join us!](https://hfbigbio.github.io)
 
