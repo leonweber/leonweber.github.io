@@ -10,7 +10,7 @@ draft: false
 # About me
 {{< figure class="avatar" src="/picture.png" alt="avatar">}}
 
-I am a researcher at [MaiNLP](https://mainlp.github.io/) where I work with Barbara Plank on human-centric NLP. Currently, I am trying to figure out how human-in-the-loop approaches can be used to improve NLP models. I am also still interested in the application of NLP to the biomedical domain.
+I am a post-doctoral researcher at [MaiNLP](https://mainlp.github.io/) where I work with Barbara Plank on human-centric NLP. I am also still interested in the application of NLP to the biomedical domain.
 
 Before that I was a PhD student at Humboldt University of Berlin and MDC Berlin where I worked on biomedical NLP with Ulf Leser and Jana Wolf.
 
@@ -18,7 +18,7 @@ Before starting my PhD in 2018, I completed my MSc and BSc in Computer Science a
 
 # Personal News
 
-* **Nov 2022** I joined [MaiNLP](https://mainlp.github.io/) as a researcher. I am looking forward to working with the team and to learn a lot about human-centric NLP.
+* **Nov 2022** I joined [MaiNLP](https://mainlp.github.io/) as a post-doctoral researcher. I am looking forward to working with the team and to learn a lot about human-centric NLP.
 
 * **Apr 2022** We, the [BigScience](https://bigscience.huggingface.co) biomedical working group, are hosting a hackathon with the goal to bring all biomedical NLP datasets into a unified format. [Come join us!](https://hfbigbio.github.io)
 

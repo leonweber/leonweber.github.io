@@ -8,11 +8,14 @@ draft: false
 ## Selected publications
 For a full list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=OKbS2VAAAAAJ&hl=en&oi=ao).
 
+## 2023
+**L. Weber**, B. Plank (2023). ActiveAED: A Human in the Loop Improves Annotation Error Detection. Findings of ACL 2023. [[paper]](https://aclanthology.org/2023.findings-acl.562/) [[code]](https://github.com/mainlp/ActiveAED)
+
 ## 2022
 **L. Weber**, M. Sänger, S. Garda, F. Barth, C. Alt, U. Leser. (2022). Chemical–protein relation extraction with ensembles of carefully tuned pretrained language models. Database. [[paper]](https://academic.oup.com/database/article/doi/10.1093/database/baac098/6833204?login=false) [[code]](https://github.com/leonweber/drugprot)
 
 J.A. Fries\*, **L. Weber**\*, N. Seelam\*, G. Altay\*, D. Datta\^, S. Garda\^, M. Kang\^, R. Su\^, W. Kusa\^, S. Cahyawijaya\^, F. Barth\^, S. Ott\^, M. Samwald\^, S. Bach\^, S. Biderman\^, M. Sänger\^, B. Wang, A. Callahan, D.L. Periñán, T. Gigant, P. Haller, J. Chim, J.D. Posada, J.M. Giorgi, K.R. Sivaraman, M. Pàmies, M. Nezhurina, R. Martin, M. Cullan, M. Freidank, N. Dahlberg, S. Mishra, S. Bose, N.M. Broad, Y. Labrak, S.S. Deshmukh, S. Kiblawi, A. Singh, M.C. Vu, T. Neeraj, J. Golde, A.V. del Moral and B. Beilharz (2022). Bigbio: A framework for data-centric biomedical natural language processing. NeurIPS 2022 Datasets and Benchmarks Track
-<sup>\*:Equal contribution, \^:Equal contribution</sup>
+<sup>\*:Equal contribution, \^:Equal contribution</sup> [[paper]](https://openreview.net/forum?id=8lQDn9zTQlW) [[code]](https://github.com/bigscience-workshop/biomedical) [[datasets]](https://huggingface.co/bigbio)
 
 
 J.A. Fries\*, N. Seelam\*, G. Altay\*, **L. Weber**\*, M. Kang\*, D. Datta\*, R. Su\*, S. Garda\*, B. Wang, S. Ott, M. Samwald, W. Kusa (2022). Dataset Debt in Biomedical Language Modeling. Workshop on Challenges & Perspectives in Creating Large Language Models 2022. [[paper]](https://aclanthology.org/2022.bigscience-1.10/) 
