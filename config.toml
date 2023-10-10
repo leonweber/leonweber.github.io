@@ -42,6 +42,10 @@ math = false          # enable KaTeX (https://katex.org/) globally
     url = "/about"
     weight = 1
   [[menu.main]]
+     name = "Resume"
+     url = "/resume.pdf"
+     weight = 2
+  [[menu.main]]
     name = "Publications"
     url = "/publications"
     weight = 3

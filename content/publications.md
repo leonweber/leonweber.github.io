@@ -8,7 +8,16 @@ draft: false
 ## Selected publications
 For a full list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=OKbS2VAAAAAJ&hl=en&oi=ao).
 
+
 ## 2023
+**L. Weber**, F. Barth, L. Lorenz, F. Konrath, K. Huska, J. Wolf and U. Leser (2023). PEDL+: Protein-centered relation extraction from PubMed at your fingertip. Bioinformatics (accepted). [[code]](https://github.com/leonweber/pedl)
+
+R. Litschko\*, M. Müller-Eberstein\*, R. van der Goot, **L. Weber**, B. Plank (2023). Establishing Trustworthiness: Rethinking Tasks and Model Evaluation. EMNLP 2023 (accepted)
+<sup>\*:Equal contribution</sup>
+
+**L. Weber-Genzel**, R. Litschko, E. Artemova, and B. Plank (2023). Donkii: Can annotation error
+detection methods find errors in instruction-tuning datasets? arXiv. [[paper]](https://arxiv.org/abs/2309.01669) 
+
 **L. Weber**, B. Plank (2023). ActiveAED: A Human in the Loop Improves Annotation Error Detection. Findings of ACL 2023. [[paper]](https://aclanthology.org/2023.findings-acl.562/) [[code]](https://github.com/mainlp/ActiveAED)
 
 ## 2022
